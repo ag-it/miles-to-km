@@ -27,6 +27,6 @@
     <rim:transitionEffect type="fadeOut" />
   </rim:loadingScreen>
 
-  <content src="miles-to-km.html" />
+  <content src="index.html" />
 
 </widget>
